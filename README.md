@@ -1,2 +1,2 @@
 # status.nonamebox.org
-NoNameBox services status
+NoNameBox services status.
